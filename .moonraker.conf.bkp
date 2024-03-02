@@ -80,7 +80,7 @@ is_system_service = False
 
 [power filament_dryer_plug]
 type = tasmota
-address = 192.168.88.251
+address = 192.168.0.73
 off_when_shutdown = True
 on_when_job_queued = True
 
